@@ -1,0 +1,15 @@
+2022-11-30 22:18:06,268 INFO  [Log] Application started. 
+2022-11-30 22:18:23,665 INFO  [Log] Cookie kapatıldı. 
+2022-11-30 22:18:35,265 INFO  [Log] Textboxa ceket ürünü girildi. 
+2022-11-30 22:18:36,450 INFO  [Log] Ürüne tıklanıldı. 
+2022-11-30 22:18:40,608 INFO  [Log] Beden seçildi. 
+2022-11-30 22:18:41,299 INFO  [Log] Sepete eklendi. 
+2022-11-30 22:18:47,670 INFO  [Log] Sepete tıklanıldı. 
+2022-11-30 22:18:49,777 INFO  [Log] Mail ve şifre okundu. 
+2022-11-30 22:18:49,902 INFO  [Log] Devam et butonuna tıklanıldı. 
+2022-11-30 22:18:51,359 INFO  [Log] Mail girildi. 
+2022-11-30 22:18:52,144 INFO  [Log] Şifre girildi 
+2022-11-30 22:18:52,752 INFO  [Log] Login olundu. 
+2022-11-30 22:18:59,785 INFO  [Log] Ürün silme kutusuna basıldı 
+2022-11-30 22:19:00,364 INFO  [Log] 'Ürünü sil' sorusuna Ürünü sil denildi. 
+2022-11-30 22:19:00,364 INFO  [Log] Test bitti. 
